@@ -4,3 +4,5 @@ Assignment2/*.sqlite
 Assignment2/*.csv
 Assignment3/*.sqlite
 Assignment3/*.csv
+*/*.sqlite
+*/*.csv
