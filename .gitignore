@@ -6,3 +6,4 @@ Assignment3/*.sqlite
 Assignment3/*.csv
 */*.sqlite
 */*.csv
+*/*.pkl
