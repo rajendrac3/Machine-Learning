@@ -8,3 +8,5 @@ Assignment3/*.csv
 */*.csv
 */*.pkl
 */.ipynb_checkpoints
+*/*.db
+*/all_list
